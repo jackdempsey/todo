@@ -8,3 +8,4 @@ Todo List
 * look into timestamp and Sequel::Error::InvalidValue: Invalid Time value '0000-00-00 00:00:00' (argument out of range)
 
 * fixup acts_as_commentable
+* sequel_filter_inspect - so you can filter out huge fields
