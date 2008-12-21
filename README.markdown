@@ -9,3 +9,4 @@ Todo List
 
 * fixup acts_as_commentable
 * sequel_filter_inspect - so you can filter out huge fields
+* look at using multiple DB's with Sequel in a merb app
